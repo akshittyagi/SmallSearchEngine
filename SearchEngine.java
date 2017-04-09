@@ -2,8 +2,6 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Iterator;
 
-import sun.org.mozilla.javascript.ast.ArrayLiteral;
-
 public class SearchEngine{
 
 	InvertedPageIndex inv;
